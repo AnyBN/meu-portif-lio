@@ -1,10 +1,11 @@
-# meu-portifólio
+# Meu portifólio 
+<script>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio de Iniciante</title>
+   
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,6 +22,7 @@
     <section id="aprendizado">
         <h2>O que estou aprendendo:</h2>
         <ul>
+    <li>Aluna DIO: <a href="mailto:(https://www.dio.me/users/any_beatriz03)">https://www.dio.me/users/any_beatriz03</a></li>
             <li>Santander 2024 - Backend com Java: Aprendendo desde os primeiros passos com Java, partindo da sintaxe básica até a implementação de uma API utilizando Spring para se tornar uma profissional atrativa no mercado.</li>
             <li>Formação JavaScript Developer: Aprendizado desde os fundamentos desta linguagem de programação até seu papel essencial na Web atualmente.</li>
             <li>DIO Campus Expert | Turma 08: Grupo de embaixadores universitários da DIO!</li>
@@ -29,11 +31,12 @@
 
     <section id="contato">
         <h2>Contato</h2>
-        <p>Email: any.beatriz03@gmail.com</p>
+        <p>Email: <a href="mailto:any.beatriz03@gmail.com">any.beatriz03@gmail.com</a></p>
     </section>
 </body>
 </html>
-
+    </script>
+    
 body {
     font-family: 'Times New Roman', sans-serif;
     margin: 0;
